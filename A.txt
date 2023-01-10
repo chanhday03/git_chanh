@@ -1,0 +1,2 @@
+Thay doi fileA
+-Xoa : van phai git add . , git commit , git push
